@@ -1,0 +1,22 @@
+{
+  "name": "http-node",
+  "version": "1.0.0",
+  "description": "Basic API with http verbs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geraldo-git/verbos-http-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geraldo-git/verbos-http-node/issues"
+  },
+  "homepage": "https://github.com/Geraldo-git/verbos-http-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
